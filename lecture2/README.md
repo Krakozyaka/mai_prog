@@ -1,1 +1,1 @@
-lecture_2
+lecture2

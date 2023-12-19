@@ -1,1 +1,1 @@
-#lectrue_2
+#lecture_2
